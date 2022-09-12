@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormshotgg&label=Visitors&color=cb1515&style=flat" alt="stormshotgg" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **Graduation Project**
 
 - 🌱 I’m currently learning **YOLO: Real-Time Object Detection**
 
