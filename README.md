@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my profile](https://github.com/StormShotGG)
 
-- 📫 How to reach me **abdulazizrs1420@gmail.com**
+- 📫 How to reach me:  **S00N**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
