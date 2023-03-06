@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormshotgg&label=Visitors&color=cb1515&style=flat" alt="stormshotgg" /> </p>
 
-- 🔭 I’m currently working on **Graduation Project** [Creating a brain tumor classification model using EffecientNets]
-
-- 👨‍💻 All of my projects are available at [my profile](https://github.com/StormShotGG)
 
 
 <h3 align="left">Connect with me:</h3>
