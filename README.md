@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A data science & analysis student at UoJ.</h3>
+<h3 align="center">Data Scientist / Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormshotgg&label=Visitors&color=cb1515&style=flat" alt="stormshotgg" /> </p>
 
